@@ -1,0 +1,7 @@
+
+insert into gallery(id, title, description, image_name) values (1, 'fotowoltaika1', 'dasdasdadadadasdasd', 'fotowoltaika1');
+insert into gallery(id, title, description, image_name) values (2, 'fotowoltaika2', 'dasdasdadadadasdasd', 'fotowoltaika2');
+insert into gallery(id, title, description, image_name) values (3, 'fotowoltaika2', 'dasdasdadadadasdasd', 'fotowoltaika3');
+insert into gallery(id, title, description, image_name) values (4, 'fotowoltaika4', 'dasdasdadadadasdasd', 'fotowoltaika4');
+insert into gallery(id, title, description, image_name) values (5, 'fotowoltaika5', 'dasdasdadadadasdasd', 'fotowoltaika5');
+insert into gallery(id, title, description, image_name) values (6, 'fotowoltaika6', 'dasdasdadadadasdasd', 'fotowoltaika6');
